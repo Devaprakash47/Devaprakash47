@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Devaprakash47/Devaprakash47/blob/6bb62b20a0669fa9cdd152cb06e4f2f0a5298262/logo.svg" width="400" height="130">
+  <img src="./logo.svg" width="400" height="130" alt="Devaprakash Logo" />
 </p>
 
-<img src="https://github.com/Devaprakash47/Devaprakash47/blob/6bb62b20a0669fa9cdd152cb06e4f2f0a5298262/waves.svg" width="100%" height="150">
+<p align="center">
+  <img src="./waves.svg" width="100%" height="150" alt="Waves" />
+</p>
+
 
 <h1 align="center">👋 Hi , I'm Devaprakash</h1>
 
@@ -133,4 +136,6 @@
 
 ---
 
-<img src="https://github.com/Devaprakash47/Devaprakash47/blob/6bb62b20a0669fa9cdd152cb06e4f2f0a5298262/waves.svg" width="100%" height="150">
+<p align="center">
+  <img src="./waves.svg" width="100%" height="150" alt="Waves" />
+</p>
