@@ -99,9 +99,9 @@
   <img src="https://github-readme-streak-stats-eta-five.vercel.app?user=Devaprakash47&hide_border=true&background=1F1F1F&ring=FF2E2E&fire=FF2E2E&currStreakLabel=FF2E2E&sideLabels=C0C0C0&dates=A3A3A3&currStreakNum=FF2E2E&sideNums=C0C0C0" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devaprakash47&theme=react-dark&hide_border=true&bg_color=0D1117&color=EF4444&line=6B7280&point=C9D1D9" alt="Contribution Graph" />
-</p>
+</p> -->
 
 
 
